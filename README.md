@@ -1,9 +1,15 @@
-## Hi there 👋
+## Hello, I'm Giselle
 
 <!--
 **giselle10101/giselle10101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I have a profound interest in technology ie Cyber Security and a dedication to solving complex problems.
+
+## Objective
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field specifically aimng to join a Security Operations Cencer (SOC) as a Tier 1 Analyst.
+
+
+## Skills
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
